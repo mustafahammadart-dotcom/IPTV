@@ -1,0 +1,28 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Aljazeera_eng.svg", Al Jazeera
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nUJIQwQfCkPGT4gwlL9XCTxDF9QhiQ6TYI9KccDg=s900-c-k-c0x00ffffff-no-rj", Roya TV
+https://roya-live.ercdn.net/roya/roya.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/MBC_1_logo.png", MBC 1
+https://shls-mbc1-prod.shahid.net/out/v1/4e9a4759f7d646f3b51b522ba3c67287/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/80/MBC_Drama.png", MBC Drama
+https://shls-mbcdrama-prod.shahid.net/out/v1/f17a9a83a5b64c5a87f2f3a07e5d6660/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/62/MBC_2_2020.png", MBC 2 (Movies)
+https://shls-mbc2-prod.shahid.net/out/v1/2f94dff9a63c402fa0cb65cf54d268c9/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/00/RotanaCinemaNew.png", Rotana Cinema
+https://rotana.hibridmedia.com/Rotana_Cinema/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/Rotana_Drama.png", Rotana Drama
+https://rotana.hibridmedia.com/Rotana_Drama/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/00/Syria_Drama_logo.png", Syria Drama
+http://95.170.215.109/hls/syriadrama/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fp7F4ZP.png", FOX Movies
+http://210.210.155.37/qwr9ew/s/s32/index2.m3u8
